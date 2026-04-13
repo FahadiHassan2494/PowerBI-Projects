@@ -10,7 +10,7 @@ worldwide, exploring salaries, job roles, favorite tools, and work-life satisfac
 - DAX
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## 📁 Files
 - `Data_Professional_Survey.pbix` — Main Power BI file
