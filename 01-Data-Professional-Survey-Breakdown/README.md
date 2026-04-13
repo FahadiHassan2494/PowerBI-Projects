@@ -14,7 +14,7 @@ worldwide, exploring salaries, job roles, favorite tools, and work-life satisfac
 
 ## 📁 Files
 - `Data_Professional_Survey.pbix` — Main Power BI file
-- `survey_data.xlsx` — Raw survey data
+-- `survey_data.xlsx` — Raw survey data (cleaning done via Power Query inside Power BI)
 
 ## 📊 Key Insights
 - **Python** is the most popular programming language among data professionals
